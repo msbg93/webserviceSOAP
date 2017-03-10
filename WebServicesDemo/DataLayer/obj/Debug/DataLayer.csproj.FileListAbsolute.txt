@@ -1,0 +1,10 @@
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Project\WebServicesDemo\DataLayer\bin\Debug\DataLayer.dll
+D:\Project\WebServicesDemo\DataLayer\bin\Debug\DataLayer.pdb
+D:\Project\WebServicesDemo\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Project\WebServicesDemo\DataLayer\obj\Debug\DataLayer.dll
+D:\Project\WebServicesDemo\DataLayer\obj\Debug\DataLayer.pdb

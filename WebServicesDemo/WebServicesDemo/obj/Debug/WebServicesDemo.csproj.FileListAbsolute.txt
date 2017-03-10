@@ -1,0 +1,15 @@
+c:\users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+c:\users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+c:\users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+c:\users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\bin\DataLayer.dll
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\bin\DataLayer.pdb
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+C:\Users\ejaz.huda\documents\visual studio 2010\Projects\WebServicesDemo\WebServicesDemo\bin\MemberServiceAPI.dll
+D:\Project\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+D:\Project\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+D:\Project\WebServicesDemo\WebServicesDemo\bin\DataLayer.dll
+D:\Project\WebServicesDemo\WebServicesDemo\bin\DataLayer.pdb
+D:\Project\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+D:\Project\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+D:\Project\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
